@@ -17,5 +17,19 @@
     "type": "page",
     "href": "https://home.charanquartz.vercel.app",
     "newWindow": true
+  },
+  "company": {
+    "title": "Company",
+    "type": "menu",
+    "items": {
+      "about": {
+        "title": "About",
+        "href": "/about"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "href": "mailto:hi@example.com"
+      }
+    }
   }
 }
