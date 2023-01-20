@@ -2,6 +2,22 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced",
+  "index": {
+    "title": "Home",
+    "type": "page"
+  },
+  "frameworks": {
+    "title": "Frameworks",
+    "type": "page"
+  },
+  "fruits": {
+    "title": "Fruits",
+    "type": "page"
+  },
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
   "about": {
     "title": "About",
     "type": "page"
