@@ -23,8 +23,8 @@
     "type": "menu",
     "items": {
       "about": {
-        "title": "About",
-        "href": "/about"
+        "title": "Hi",
+        "href": "/hi"
       },
       "contact": {
         "title": "Contact Us",
