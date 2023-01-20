@@ -9,7 +9,13 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/charanquartz",
+    "newWindow": true
+  },
+  "contact": {
+    "title": "Website↗",
+    "type": "page",
+    "href": "https://home.charanquartz.vercel.app",
     "newWindow": true
   }
 }
