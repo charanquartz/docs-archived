@@ -1,7 +1,7 @@
 {
   "index": "Introduction",
   "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "advanced": "Advanced",
   "about": {
     "title": "About",
     "type": "page"
@@ -12,7 +12,7 @@
     "href": "https://twitter.com/charanquartz",
     "newWindow": true
   },
-  "contact": {
+  "Website": {
     "title": "Website↗",
     "type": "page",
     "href": "https://home.charanquartz.vercel.app",
