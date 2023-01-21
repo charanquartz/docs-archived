@@ -68,4 +68,5 @@ const config: DocsThemeConfig = {
 
 export default config;
 
+
 /** credit: https://github.com/nabilfatih/nakafa-docs/blob/main/theme.config.tsx **/
