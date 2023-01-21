@@ -2,7 +2,7 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced",
-  "index": {
+  "hi": {
     "title": "Home",
     "type": "page"
   },
@@ -12,10 +12,6 @@
   },
   "fruits": {
     "title": "Fruits",
-    "type": "page"
-  },
-  "about": {
-    "title": "About",
     "type": "page"
   },
   "about": {
