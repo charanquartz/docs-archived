@@ -50,7 +50,7 @@ const Logo = ({ className = "", ...props }) => (
       fill-rule="evenodd"
     ></path>
   </g>
-</svg>;
+</svg>
     <strong>charanquartz</strong>
   </div>
 );
