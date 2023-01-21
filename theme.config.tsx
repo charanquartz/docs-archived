@@ -69,21 +69,3 @@ const config: DocsThemeConfig = {
 export default config;
 
 /** credit: https://github.com/nabilfatih/nakafa-docs/blob/main/theme.config.tsx **/
-import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
-
-const config: DocsThemeConfig = {
-  logo: <span>Charan Quartz's Docs</span>,
-  project: {
-    link: 'https://github.com/charanquartz',
-  },
-  chat: {
-    link: 'https://discord.com',
-  },
-  docsRepositoryBase: 'https://github.com/charanquartz/docs/tree/main',
-  footer: {
-    text: 'Learning Documentation of Charan Quartz',
-  },
-}
-
-export default config
