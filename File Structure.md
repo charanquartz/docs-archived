@@ -1,1 +1,1 @@
-![Visualization of this repo](./diagram.svg)
+  <!-- ![Visualization of this repo](./diagram.svg)  -->
