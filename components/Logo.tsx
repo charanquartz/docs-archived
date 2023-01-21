@@ -3,13 +3,13 @@ import styles from "./Logo.module.css";
 const Logo = ({ className = "", ...props }) => (
   <div className={styles.logo}>
 <svg
-  id="svg"
-  version="1.1"
-  xmlns="http://www.w3.org/2000/svg"
-  xmlns:xlink="http://www.w3.org/1999/xlink"
-  width="400"
-  height="400"
-  viewBox="0, 0, 400,400"
+ id="Layer_1"
+ id="svg"
+ version="1.1"
+ xmlns="http://www.w3.org/2000/svg"
+  width="32"
+  height="32"
+  viewBox="0, 0, 32,32"
   className={className}
   {...props}
 >
