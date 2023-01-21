@@ -4,7 +4,7 @@ This is a donw using [Nextra](https://nextra.site).
 
 [**Live Demo →**](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=charanquartz%2Fdocs)
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+[![](.github/screenshot.png)](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=charanquartz%2Fdocs)
 
 ## Quick Start
 
