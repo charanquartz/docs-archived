@@ -1,3 +1,47 @@
 # Advanced
 
 This is the index page for the Advanced folder!
+
+<!-- Checkbox.stories.mdx -->
+
+import { Canvas, Meta, Story } from '@storybook/addon-docs';
+
+import { Checkbox } from './Checkbox';
+
+<Meta title="MDX/Checkbox" component={Checkbox} />
+
+export const Template = (args) => <Checkbox {...args} />;
+
+# Checkbox
+
+With `MDX`, we can define a story for `Checkbox` right in the middle of our
+Markdown documentation.
+
+<Canvas>
+  <Story 
+    name="Unchecked"
+    args={{ 
+      label: 'Unchecked',
+    }}>
+    {Template.bind({})}
+   </Story>
+
+  <Story 
+    name="Checked"
+    args={{ 
+      label: 'Unchecked', 
+      checked: true,
+    }}>
+    {Template.bind({})}
+   </Story>
+  
+  <Story 
+    name="Secondary"
+    args={{
+      label: 'Secondary', 
+      checked: true, 
+      appearance: 'secondary',
+    }}>
+    {Template.bind({})}
+   </Story>
+</Canvas>
