@@ -1,8 +1,8 @@
-# Nextra Docs Template 
+# To see The Live Visualization of this Documtation visit:
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This is a donw using [Nextra](https://nextra.site).
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+[**Live Demo →**](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=charanquartz%2Fdocs)
 
 [![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
 
